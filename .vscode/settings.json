@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "."
+    },
+    "python.analysis.extraPaths": [
+        ".",
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    }
+}

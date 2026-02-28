@@ -1,0 +1,14 @@
+name: adsbparser
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - pyarrow
+  - fastparquet
+  - pymodes
+  - folium
+  - geopy
+  - numpy
+  - matplotlib
+  - contextily
